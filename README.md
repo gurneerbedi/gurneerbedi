@@ -6,7 +6,7 @@
 
 <h3 align="center" style="color:#049bdb;">👩🏽‍💻 About Me:</h3>
 
-<p align="center"> I'm a problem-solver who loves building cool things on the web! As a Computer Engineering graduate, I've dived deep into everything from full-stack development to cybersecurity, and even have a bit of a knack for data science. 
+<p > I'm a problem-solver who loves building cool things on the web! As a Computer Engineering graduate, I've dived deep into everything from full-stack development to cybersecurity, and even have a bit of a knack for data science. 
 
 Currently, I'm an **[Assistant Instructor at Brainstation](https://brainstation.io/)**, where I mentor aspiring developers, and work on projects that make technology accessible and impactful for everyone.
 
