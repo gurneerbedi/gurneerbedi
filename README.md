@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=700&color=049bdb2&center=true&width=435&lines=Hi👋+I'm+Gurneer" alt="typing effect" /></p>
 
-<img src = "./images/Developer.gif" width = 100% alt = "developer gif">
+<img src = "./images/developer.gif" width = 100% alt = "developer gif">
 
 <h3 align="center" style="color:#049bdb;">👩🏽‍💻 About Me:</h3>
 
