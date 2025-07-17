@@ -1,8 +1,9 @@
 ## Hey!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=700&pause=1000&color=049BDB&center=true&width=435&lines=Hi👋+I'm+Gurneer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&weight=700&pause=1000&color=049BDB&center=true&width=435&lines=Hi👋+I'm+Gurneer" alt="Typing SVG" />
 </p>
+
 
 
 
