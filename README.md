@@ -8,7 +8,7 @@
 
 <p > I'm a problem-solver who loves building cool things on the web! As a Computer Engineering graduate, I've dived deep into everything from full-stack development to cybersecurity, and even have a bit of a knack for data science. 
 
-Currently, I'm an **[Teaching Assistant at Brainstation](https://brainstation.io/)**, where I mentor aspiring developers, and work on projects that make technology accessible and impactful for everyone.
+Currently, I'm a **[Teaching Assistant at Brainstation](https://brainstation.io/)**, where I mentor aspiring developers, and work on projects that make technology accessible and impactful for everyone.
 
 🧐 **Fun fact:** I worked on a satellite mission with Environment and Climate Change Canada, helping develop tech for **[EarthCARE](https://earth.esa.int/eogateway/missions/earthcare)**, one of the most advanced Earth observation satellites! 🚀</p>
 
